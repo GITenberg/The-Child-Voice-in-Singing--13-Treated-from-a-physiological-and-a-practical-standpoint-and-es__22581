@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25422'
     url: http://www.gutenberg.org/2009/agents/25422
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22581#The-Child-Voice-in-Singing--13-Treated-from-a-physiological-and-a-practical-standpoint-and-es_
 gutenberg_bookshelf: Music
 gutenberg_issued: '2007-09-12'
 gutenberg_type: Text
