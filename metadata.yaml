@@ -1,0 +1,29 @@
+_repo: The-Child-Voice-in-Singing--13-Treated-from-a-physiological-and-a-practical-standpoint-and-es__22581
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howard, Francis E. (Francis Edward)
+    birthdate: 1858
+    gutenberg_agent_id: '25422'
+    url: http://www.gutenberg.org/2009/agents/25422
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2007-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Choral singing -- Juvenile'
+- !lcsh 'Singing'
+- !lcsh 'Voice culture'
+- !lcc 'MT'
+title: "The Child-Voice in Singing\r\nTreated from a physiological and a practical\
+  \ standpoint and especially adapted to schools and boy choirs"
+url: http://www.gutenberg.org/ebooks/22581
